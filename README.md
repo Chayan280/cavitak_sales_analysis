@@ -1,5 +1,15 @@
 # cavitak_sales_analysis
 
+## Asking Graphs
+Tasks	Visualization(Chart Type)	Objective
+1. Total Sales by Product	Bar chart	 See which electronic products are generating the most revenue.
+2. Sales Trend Over Time	Line chart	Analyze sales growth over months.
+3. Top 5 Customers by Revenue	Table	Identify high-value customers.
+4. Category-wise Sales Distribution	Donut chart/Pie Chart	See contribution of each category (Computers, Accessories, Mobile, Networking).
+5. Profit Analysis - Product Wise	Matrix	Calculate profit per product.
+<img width="1180" height="145" alt="image" src="https://github.com/user-attachments/assets/2a227ee1-bb56-4c3b-b70c-31db7b1d189c" />
+
+
 ## Key Sales Insights
 The analysis indicates strong overall performance, driven primarily by a single top-selling
 product.
