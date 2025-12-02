@@ -9,6 +9,9 @@ Tasks	Visualization(Chart Type)	Objective
 5. Profit Analysis - Product Wise	Matrix	Calculate profit per product.
 <img width="1180" height="145" alt="image" src="https://github.com/user-attachments/assets/2a227ee1-bb56-4c3b-b70c-31db7b1d189c" />
 
+## Data File
+
+<a href= "https://github.com/Chayan280/cavitak_sales_analysis/blob/main/PowerBI_Test_Data.xlsx" > Data File </a>
 
 ## Key Sales Insights
 The analysis indicates strong overall performance, driven primarily by a single top-selling
