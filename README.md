@@ -13,6 +13,9 @@ Tasks	Visualization(Chart Type)	Objective
 
 <a href= "https://github.com/Chayan280/cavitak_sales_analysis/blob/main/PowerBI_Test_Data.xlsx" > Data File </a>
 
+## Dashboards
+
+<a href= "https://github.com/Chayan280/cavitak_sales_analysis/blob/main/Screenshot%202025-12-02%20202151.png" > DashBoard </a>
 ## Key Sales Insights
 The analysis indicates strong overall performance, driven primarily by a single top-selling
 product.
